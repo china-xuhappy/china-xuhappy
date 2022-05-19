@@ -8,3 +8,6 @@
 ## 2022-05-18
 - Understand ERC-20 , RPC , Ethereum documentation
 - Learn five courses of solidity
+
+## 2022-05-19
+- Learn five courses of solidity
