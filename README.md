@@ -2,6 +2,7 @@
 
 # 2022 Goals
 - 🤔 learning Go, Solidity, Web3 and React
+- ![1E55896A](https://user-images.githubusercontent.com/42266572/169497481-042e5754-02bc-4682-8226-28f8b718db47.png) learning Solana
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
