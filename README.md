@@ -21,3 +21,6 @@
 
 ### 2022-05-21
 - Learn six courses of solidity
+
+### 2022-05-22
+- Read the documentation
