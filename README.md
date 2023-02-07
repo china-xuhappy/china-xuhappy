@@ -24,3 +24,7 @@
 
 ### 2022-05-22
 - Read the documentation
+
+
+### 2023-02-07
+- Learn Rust crates serde + serde_json
