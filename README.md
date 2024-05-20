@@ -1,8 +1,18 @@
-# Learning progress
+<!-- animation start  -->
 
-## 2024 Goals
-- 🤔 突然2024年了 哈哈，23年确实学了很多，这一年确实很累 但很充实 嘿嘿。
-- 🤔 2024年目标：持续学习，不忘初心，越来越好 嘿嘿
-- 🤔 找到一个**稳定工作** 持续做下去， 英语持续学习
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71A1A&random=false&width=435&lines=Hello%2C+I'm+Xu+Happy.)](https://git.io/typing-svg)
+
+
+<!-- animation end  -->
+			
+<hr>
+<h3 style="margin-top: 4px;">My development skills and love</h3>
+• 🌱 I’m learning blockchain development. <br>
+• 💞️ I'm a blockchain and trading enthusiast. <br>
+• 👨‍💻 Programming Language: Python Rust Java Move TypeScript. <br>
+• 🤝 I want to meet more blockchain developers and traders friends. <a href='https://t.me/xuhappy521'>telegram</a> <br>
+
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=china-xuhappy&show_icons=true&theme=transparent)
